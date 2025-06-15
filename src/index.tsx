@@ -13,6 +13,7 @@ import { Root } from './www/components/Root';
 // import './mockEnv.ts';
 
 //import 'primereact/resources/themes/lara-dark-cyan/theme.css';
+import 'primereact/resources/themes/lara-light-teal/theme.css'
 
 import './index.css';
 

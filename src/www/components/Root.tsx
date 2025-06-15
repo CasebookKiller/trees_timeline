@@ -12,8 +12,8 @@ import { PrimeReactProvider } from 'primereact/api';
 import { App } from '@/www/components/App.tsx';
 import { ErrorBoundary } from '@/components/ErrorBoundary.tsx';
 
-//import 'primeflex/primeflex.css';
-//import 'primeicons/primeicons.css';
+import 'primeflex/primeflex.css';
+import 'primeicons/primeicons.css';
 
 const ErrorBoundaryError: FC<{ error: unknown }> = ({ error }) => (
   <div>
